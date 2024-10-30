@@ -49,15 +49,7 @@ This project offers a comprehensive analysis of Walmart Superstore's sales and p
 ![Screenshot 2024-06-02 224352](https://github.com/virajbhutada/Walmart-Ecommerce-Retail-Analysis/assets/143819712/5338e07c-21f0-429e-8d98-25757939c030)
 ![Screenshot 2024-06-02 224409](https://github.com/virajbhutada/Walmart-Ecommerce-Retail-Analysis/assets/143819712/4628c99f-795d-417b-ad17-23d0510183d5)
 
-Explore the complete dashboard by following the usage instructions provided above.
 
----
-
-# Feedback and Contributions:
-
-[![Clone](https://img.shields.io/badge/Clone-Download-yellow)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/archive/refs/heads/main.zip) [![Issues](https://img.shields.io/badge/Issues-Report-red)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/issues) [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Submit-green)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/pulls) [![Push](https://img.shields.io/badge/Push-Upload-orange)](https://github.com/virajbhutada/Walmart-Retail-Analyzer)
-
----
 
 ## Connect With Me
 
